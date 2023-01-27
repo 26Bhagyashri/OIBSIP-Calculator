@@ -1,0 +1,41 @@
+.container{
+    border-radius: 8px 8px 8px;
+    border: 2px solid black;
+    width: 280px;
+    color: #404258;
+    background-color: #404258;
+    box-shadow: 15px 15px 8px gray;
+  }
+  
+  .btn-group{
+    column-gap: 10px;
+    color: black;
+    
+  }
+  .input{
+    border: 2px solid black;
+    border-radius: 10px 10px 10px 10px;
+    height: 80px;
+    padding: 0px 5px 0px;
+    text-align: right;
+    background-color: #C8C6C6;
+    box-shadow: 8px 8px 8px black;
+  } 
+  .btn-group button{
+    background-color: white;
+  }
+  .btn-group button:hover{
+    background-color: #334257;
+    color: white;
+    font-weight: bolder;
+    font-size: 24px;
+    border: 1px solid silver;
+  } 
+  input{
+    box-shadow: 5px 5px 5px gray;
+    font-weight: bold;
+  }
+  
+  .main{
+    background-color: rgb(220, 203, 207);
+  }
